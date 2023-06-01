@@ -1,5 +1,9 @@
 # Projeto de TCC da Escola da Nuvem
 
+![GitHub](https://img.shields.io/github/license/juxxnn/tcc-escoladanuvem)
+![GitHub repo size](https://img.shields.io/github/repo-size/juxxnn/tcc-escoladanuvem)
+![GitHub language count](https://img.shields.io/github/languages/count/juxxnn/tcc-escoladanuvem)
+
 
 ## Sobre o projeto
 Neste repositório, você encontrará a criação de um portfólio contendo os currículos dos alunos da Escola da Nuvem - Grupo 3.
@@ -27,6 +31,8 @@ O objetivo do projeto foi criar um portfólio contendo os currículos dos alunos
 
 
 -------------------
+O repositório se encontra sob licença MIT. Para mais detalhes, acesse <a href="https://github.com/juxxnn/tcc-escoladanuvem/blob/main/LICENSE">license</a>.
+<br>
 Feito com muito 💗 por <a href="https://github.com/juxxnn">Juliana Silva</a>
 <br>
 Gostou? Deixe uma estrelinha para ajudar o projeto ⭐
