@@ -21,12 +21,12 @@ O objetivo do projeto foi criar um portfólio contendo os currículos dos alunos
 ### Autores: 
 <table>
 <tr>
-<td align="center"><a href="https://github.com/"><img style="border-radius: 50%;" src="https://github.com/" width="100px;" alt="Beatriz Carvalho da Costa"/><br /><sub><b>Beatriz Carvalho da Costa</b></sub></a><br/></td>
-<td align="center"><a href="https://github.com/"><img style="border-radius: 50%;" src="https://github.com/" width="100px;" alt="Felipe Pavam Ferreira"/><br /><sub><b>Felipe Pavam Ferreira </b></sub></a><br/></td> 
+<td align="center"><a href="https://github.com/beatrizcarvalho97"><img style="border-radius: 50%;" src="https://github.com/beatrizcarvalho97.png" width="100px;" alt="Beatriz Carvalho da Costa"/><br /><sub><b>Beatriz Carvalho da Costa</b></sub></a><br/></td>
+<td align="center"><a href="https://github.com/f3lip3pavs"><img style="border-radius: 50%;" src="https://github.com/f3lip3pavs.png" width="100px;" alt="Felipe Pavam Ferreira"/><br /><sub><b>Felipe Pavam Ferreira </b></sub></a><br/></td> 
 <td align="center"><a href="https://github.com/juxxnn"><img style="border-radius: 50%;" src="https://github.com/juxxnn.png" width="100px;" alt="Juliana Silva"/><br /><sub><b>Juliana Silva</b></sub></a><br/></td> 
-<td align="center"><a href="https://github.com/"><img style="border-radius: 50%;" src="https://github.com/" width="100px;" alt="Lilian Mendes Ferreira"/><br /><sub><b>Lilian Mendes Ferreira</b></sub></a><br/></td> 
-<td align="center"><a href="https://github.com/"><img style="border-radius: 50%;" src="https://github.com/" width="100px;" alt="Mateus Pereira Moreira"/><br /><sub><b>Mateus Pereira Moreira</b></sub></a><br/></td>
- <td align="center"><a href="https://github.com/"><img style="border-radius: 50%;" src="https://github.com/" width="100px;" alt="Roxelle Lamour de Oliveira Sass "/><br /><sub><b>Roxelle Lamour de Oliveira Sass </b></sub></a><br/></td>
+<td align="center"><a href="https://github.com/lilianmendesf"><img style="border-radius: 50%;" src="https://github.com/lilianmendesf.png" width="100px;" alt="Lilian Mendes Ferreira"/><br /><sub><b>Lilian Mendes Ferreira</b></sub></a><br/></td> 
+<td align="center"><a href="https://github.com/MattsxJ"><img style="border-radius: 50%;" src="https://github.com/MattsxJ.png" width="100px;" alt="Mateus Pereira Moreira"/><br /><sub><b>Mateus Pereira Moreira</b></sub></a><br/></td>
+ <td align="center"><a href="https://github.com/RoxelleSass"><img style="border-radius: 50%;" src="https://github.com/RoxelleSass.png" width="100px;" alt="Roxelle Lamour de Oliveira Sass "/><br /><sub><b>Roxelle Lamour de Oliveira Sass </b></sub></a><br/></td>
 </table>
 
 
